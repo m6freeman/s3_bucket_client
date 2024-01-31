@@ -1,0 +1,12 @@
+black
+boto3
+build
+coverage
+moto[s3]
+mypy
+mypy-extensions
+pygame
+pyproject_hooks
+pytest
+pytest-cov
+result
